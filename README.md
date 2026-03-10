@@ -24,8 +24,7 @@ Kali Linux
 Nmap  
 Metasploit  
 Wireshark  
-Splunk  
-Suricata  
+Splunk   
 Microsoft Azure  
 
 ---
