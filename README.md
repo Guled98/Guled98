@@ -42,6 +42,12 @@ En lab hvor jeg dokumenterer hvordan Nmap kan brukes til nettverksrekognosering,
 
 https://github.com/Guled98/nmap-network-recon-lab
 
+
+🦠 Malware Triage Analyse  
+En praktisk analyse av en mistenkelig Windows-fil basert på nettverkstrafikk og statisk analyse. Prosjektet viser hvordan en sikkerhetsanalytiker kan identifisere nedlasting av en fil i Wireshark, beregne hash, undersøke filen i VirusTotal og gjøre en sikkerhetsvurdering.
+
+https://github.com/Guled98/malware-triage-analyse
+
 ---
 
 ## 🎯 Hva jeg er spesielt interessert i
